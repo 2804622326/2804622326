@@ -4,10 +4,11 @@
 
 </br>
 
-## 🔧 Technologies
+## 🔧 Language&Framework
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,java,spring,py,django,mysql,docker,git,materialui,jenkins,aws,idea,vscode&theme=light)
 
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,java,spring,py,django,mysql,docker,git,materialui,jenkins,aws,idea,vscode&theme=light),
 
+<h2>Project</h2>
 <div align="left">
   <a href="https://github.com/2804622326/appointment-system-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=2804622326&repo=appointment-system-project&theme=react&hide_border=true&show_icons=True" alt="CalculatorJS" /></a>
   
