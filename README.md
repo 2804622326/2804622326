@@ -5,7 +5,7 @@
 </br>
 
 ## 🔧 Language&Framework
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,materialui,react,java,spring,py,django,mysql,git,docker,jenkins,aws,idea,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,materialui,react,vite,java,spring,py,django,mysql,git,docker,jenkins,aws,idea,vscode&theme=light)
 
 
 <h2>Project</h2>
