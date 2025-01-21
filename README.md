@@ -1,12 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&duration=4000&pause=100&color=790EF7&center=%E7%9C%9F%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Hello%2C+I'm+David;welcome+to+my+channel;I'm+a+full-stack+developer)](https://git.io/typing-svg)
   <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100">
 
-  <a href="https://www.linkedin.com/in/minghao-li-086366293/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="80" width="80" />
-  </a>
-
-
-
 </br>
 
 ## 🔧 Language&Framework
