@@ -13,3 +13,20 @@
   <a href="https://github.com/2804622326/appointment-system-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=2804622326&repo=appointment-system-project&theme=react&hide_border=true&show_icons=True" alt="CalculatorJS" /></a>
   
 </div>
+
+## 📊 Github Stats
+
+<p align="center">
+<table align="center">
+<tr border="none">
+<td align="center">
+  <!--- stats (start) -->
+<!--   <br></br> -->
+
+ <img src="https://github-readme-stats.vercel.app/api/?username=2804622326&show_icons=true&count_private=true&bg_color=00000000&title_color=8A2BE2&text_color=cfcfcf&icon_color=8A2BE2&hide_border=true" alt="David GitHub Stats" width = 700px />
+</td>
+<td align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2804622326&langs_count=7&bg_color=00000000&title_color=8A2BE2&text_color=cfcfcf&icon_color=8A2BE2&hide_border=true" alt="David Top Languages" width = 500px />
+  </td>
+</tr>
+</table>
